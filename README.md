@@ -9,6 +9,11 @@ This project emphasizes the **"Infrastructure as Code" (IaC)** methodology by us
 
 ---
 
+## Video Demonstration
+* **[YouTube: Automated Cloud Deployment with Terraform](LINK_TO_YOUR_VIDEO)**
+
+---
+
 ## 🛠️ Implementation Steps
 
 ### 1. Provider Configuration & State Management
